@@ -9,7 +9,7 @@
     "vue": "^3.0.0-rc.5"
   },
   "devDependencies": {
-    "@vue/compiler-sfc": "^3.0.0-rc.5",
+    "@vue/compiler-sfc": "^3.2.45",
     "typescript": "^3.9.7",
     "vite": "^1.0.0-rc.4"
   }
